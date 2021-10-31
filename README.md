@@ -52,3 +52,13 @@ python add_pipeline/pipeline.py
 5. Evaluate Component ✅
 6. Train Metrics ❌
 7. Model Deploy ❌
+
+
+
+**Click Image for show implement notebook ⬇️**
+
+[<img src="mnist/mnist_deploy/demo2.png" width="50%"/>](mnist/mnist_deploy/mnist_deploy.ipynb)
+
+1. Load Data Component ✅
+2. Train Linear Component ✅
+3. Deploy Model Component ✅
