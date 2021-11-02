@@ -1,2 +1,4 @@
 *.yaml
 */*.yaml
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/

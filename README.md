@@ -62,3 +62,15 @@ python add_pipeline/pipeline.py
 1. Load Data Component ✅
 2. Train Linear Component ✅
 3. Deploy Model Component ✅
+
+**Click Image for show implement notebook ⬇️**
+
+[<img src="mnist/mnist_project/demo.png" width="50%"/>](mnist/mnist_project/main.ipynb)
+
+run on Kubeflow Pipelines
+
+1. Load Data Component ✅
+2. Train Linear Component ✅
+3. Train CNN Component ✅
+4. Evaluate Model Component ✅
+5. Deploy Model on Vertex AI Component ✅
